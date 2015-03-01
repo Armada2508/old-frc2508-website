@@ -20,18 +20,6 @@ body {
   visibility: hidden; 
 }
 
-li.list-group-item:hover {
-    background-color: #eee;
-    cursor: pointer;
-}
-
-li.list-group-item.active > a,
-li.list-group-item.active > a:hover,
-li.list-group-item.active > a:focus {
-  color: #fff;
-  background-color: #CA4242;
-}
-
 
 /* Footer */
 

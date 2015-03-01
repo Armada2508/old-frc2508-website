@@ -1,23 +1,79 @@
+- name: Robot 2015
+  year: 2015
+  image: http://i.imgur.com/rnBLOHT.jpg
+  record: 5-0-0
+  ranking: >
+    TBD
+  about: >
+    This robot uses motors to move and stuff.
+  challenge: >
+    RECYCLE RUSH is a recycling-themed game designed for the 2015 FIRST Robotics Competition (FRC). It is played by two Alliances of three
+    Teams each. Alliances compete simultaneously to score points by stacking Totes on Scoring Platforms, capping those stacks with Recycling
+    Containers, and properly disposing of Litter, represented by pool noodles, in designated locations. In keeping with the recycling theme of the
+    game, all scoring elements used are reusable or recyclable by teams in their home locations or by FIRST at the end of the season.
+    <br /><br />
+    The 27 ft. by 54 ft. playing Field is bisected by a small Step which may not be climbed on or crossed by Robots. Thus each Alliance competes
+    on their respective 26 ft. by 27 ft. side of the Field.
+    <br /><br />
+    Each RECYCLE RUSH Match begins with a 15-second Autonomous Period in which Robots operate independently of their drivers. During this
+    period, Robots attempt to move themselves, their Yellow Totes, and their Recycling Containers into the area between the scoring platforms,
+    called the Auto Zone. Additional points are awarded if the Yellow Totes are arranged in a single stack. Points for this period are shown in Table
+    1-1.
 - name: Robot 2014
   year: 2014
   image: /assets/images/robots/2014.jpg
   about: >
-    This robot was cool.
+    This picks rolls in a blue ball and shoots it places.
   record: 4-0-0
   ranking: >
     Minnesota 10,000 Lakes Regional: 27th
   challenge: >
-    Aerial Assist is played by two competing Alliances of three robots each on a flat 25’ x 54’ foot field, straddled by a truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together to do it, the more points their Alliance receives.
+    Aerial Assist is played by two competing Alliances of three robots each on a flat 25’ x 54’ foot field, straddled by a 
+    truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during 
+    a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together
+     to do it, the more points their Alliance receives.
     <br /><br />
-    The match begins with one 10-second Autonomous Period in which robots operate without the control of a driver. Each robot may begin with a ball and attempt to score it in a goal. Alliances earn bonus points for scoring balls in this mode.  Additionally, each high/low pair of goals will be designated “hot” for five seconds, but the order of which side is first is randomized. For each ball scored in a “hot” goal, the Alliance earns additional bonus points.
+    The match begins with one 10-second Autonomous Period in which robots operate without the control of a driver.
+    Each robot may begin with a ball and attempt to score it in a goal. Alliances earn bonus points for scoring balls in this mode.
+    Additionally, each high/low pair of goals will be designated “hot” for five seconds, but the order of which side is first 
+    is randomized. For each ball scored in a “hot” goal, the Alliance earns additional bonus points.
     <br /><br />
-    For the rest of the match, drivers remotely control robots from behind a protective wall. Once all balls in autonomous are scored, only one ball is re-entered in to play, and the Alliances must cycle a single ball as many times as possible for the remainder of the match. With the single ball, they try to maximize their points earned by throwing balls over the truss, catching balls launched over the truss, and scoring in the high and low goals on the far side of the field. Alliances receive large bonuses for “assists,” which are earned for each robot that has possession of the ball in a zone as the ball moves down the field. Read More
+    For the rest of the match, drivers remotely control robots from behind a protective wall. Once all balls 
+    in autonomous are scored, only one ball is re-entered in to play, and the Alliances must cycle a single ball as many times as
+    possible for the remainder of the match. With the single ball, they try to maximize their points earned by throwing balls 
+    over the truss, catching balls launched over the truss, and scoring in the high and low goals on the far side of the field.
+    Alliances receive large bonuses for “assists,” which are earned for each robot that has possession of the ball in a zone as
+    the ball moves down the field. Read More
+
+- name: Robot 2012
+  year: 2012
+  image: /assets/images/robots/2012.jpg
+  about: >
+    This shoots basketballs.
+  record: 5-0-0
+  ranking: 1st in Minnesota
+  challenge: >
+    Rebound Rumble is played by two competing Alliances on a flat, 27 x 54 foot field. Each
+    Alliance consists of three robots. They compete to score as many basketballs into their hoops
+    as they can during a 2 minute and 15 second match. The higher the hoop in which the
+    basketball is scored, the more points the Alliance receives.
+    <br /><br />
+    The match begins with a 15-second Hybrid Period in which robots operate independently of
+    driver inputs. During this Hybrid Period, one robot on each Alliance may be controlled using a
+    Microsoft Kinect. Baskets scored during this period are worth extra points. For the remainder of
+    the match, drivers control robots and try to maximize their Alliance score by scoring as many
+    baskets as possible.
+    <br /><br />
+    The match ends with robots attempting to balance on bridges located at the middle of the field.
+    In Qualification Matches, a robot from each Alliance will also try to balance on the white
+    Coopertition™ bridge to score additional ranking points for each Alliance. Scoring for the match
+    is summarized below.
 
 - name: Robot 2011
   year: 2011
   image: /assets/images/robots/2011.jpg
   about: >
-    This robot was also cool.
+    Puts triangles on objects.
   record: 2-0-0
   ranking: >
     Minnesota 10,000 Lakes Regional: 1st
