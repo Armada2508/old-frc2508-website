@@ -15,9 +15,9 @@ body {
 *[id]:before { 
   display: block; 
   content: " "; 
-  margin-top: -75px; 
-  height: 75px; 
-  visibility: hidden; 
+  margin-top: -70px;
+  height: 70px; 
+  visibility: hidden;
 }
 
 

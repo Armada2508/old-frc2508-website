@@ -1,3 +1,6 @@
+# bootstrap or bootstrap-red
+set :theme, 'bootstrap-red'
+
 # Assets
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
