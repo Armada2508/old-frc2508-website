@@ -1,0 +1,31 @@
+- name: Robot 2014
+  year: 2014
+  image: /assets/images/robots/2014.jpg
+  about: >
+    This robot was cool.
+  record: 4-0-0
+  ranking: >
+    Minnesota 10,000 Lakes Regional: 27th
+  challenge: >
+    Aerial Assist is played by two competing Alliances of three robots each on a flat 25’ x 54’ foot field, straddled by a truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together to do it, the more points their Alliance receives.
+    <br /><br />
+    The match begins with one 10-second Autonomous Period in which robots operate without the control of a driver. Each robot may begin with a ball and attempt to score it in a goal. Alliances earn bonus points for scoring balls in this mode.  Additionally, each high/low pair of goals will be designated “hot” for five seconds, but the order of which side is first is randomized. For each ball scored in a “hot” goal, the Alliance earns additional bonus points.
+    <br /><br />
+    For the rest of the match, drivers remotely control robots from behind a protective wall. Once all balls in autonomous are scored, only one ball is re-entered in to play, and the Alliances must cycle a single ball as many times as possible for the remainder of the match. With the single ball, they try to maximize their points earned by throwing balls over the truss, catching balls launched over the truss, and scoring in the high and low goals on the far side of the field. Alliances receive large bonuses for “assists,” which are earned for each robot that has possession of the ball in a zone as the ball moves down the field. Read More
+
+- name: Robot 2011
+  year: 2011
+  image: /assets/images/robots/2011.jpg
+  about: >
+    This robot was also cool.
+  record: 2-0-0
+  ranking: >
+    Minnesota 10,000 Lakes Regional: 1st
+  challenge: >
+    LOGO MOTION incorporated the FIRST logo as game pieces. Each Alliance, comprised of three FIRST teams, must hang as many of the logo game pieces (inflated trianges, circles, and squares) on the scoring grids located on each end of the field as possible.
+    <br /><br />
+    The higher a game piece is hung on the grid, the more points the alliance receives.  Any logo piece hung on the same peg as an Ubertube receives double points. If the logo pieces are assembled in the order of the FIRST logo (triangle, circle, then square) the points for the row are doubled.
+    <br /><br />
+    Each match lasts for 2 minutes and 15 seconds, beginning with a 15-second “autonomous period” in which the robot functions on its own using instructions programmed by the team.  In order to receive extra points, it must hang Ubertubes.  Then it is time for the drivers to take control during the “teleoperated period” which lasts until the end of the game.
+    <br /><br />
+    At the end of the match, the robots deploy separate minibots which must race to the top of a vertical pole, triggering a sensor and earning the alliance additional bonus points.  The first minibot to reach the top receives 30 points and the remaining bots receive 20, 15, and 10 points for the last minibot.
