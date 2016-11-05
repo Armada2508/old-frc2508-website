@@ -4,6 +4,12 @@ body {
   padding-top: 65px !important;
 }
 
+
+
+.affix {
+  position: static !important;
+}
+
 .first a {
   padding: 8px 10px !important;
 }
