@@ -1,3 +1,33 @@
+- name: Robot 2019
+  year: 2019
+  image: 
+  record: 0-0-0
+  ranking: 0
+  about: >
+    Robot info
+  challenge: >
+   This is sparta
+
+- name: Robot 2018
+  year: 2018
+  image: 
+  record: 0-0-0
+  ranking: 0
+  about: >
+    Robot info
+  challenge: >
+   This is sparta
+
+- name: Robot 2017
+  year: 2017
+  image: 
+  record: 0-0-0
+  ranking: 0
+  about: >
+    Robot info
+  challenge: >
+   This is sparta
+
 - name: Robot 2016
   year: 2016
   image: 
